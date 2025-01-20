@@ -1,4 +1,4 @@
-***Anki Addon Environment Setup*** 
+Anki Developing Environment Set Up
 
 For anyone who is having trouble with setting up Pycharm for developing Anki addon.
 So I tried to use Python version 3.13 for developing Anki addon but it's not working on my end.
