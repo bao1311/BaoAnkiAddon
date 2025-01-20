@@ -1,7 +1,7 @@
 # Anki Developing Environment Set Up
 
 Contributing to Anki plugins by Bao Phi!
-===================================================================================
+-------------------------------------------------------------------------------------
 For anyone who is having trouble with setting up Pycharm for developing Anki addon.
 So I tried to use Python version 3.13 for developing Anki addon but it's not working on my end.
 Then, I checked again and found that Anki is most stable with Python version 3.9
