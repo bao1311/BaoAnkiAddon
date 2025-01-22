@@ -21,12 +21,14 @@ def testFunction():
   # Get card IDs for note with tag x
   ids = mw.col.find_cards("tag:x")
 
+  res = ""
   # Print out all the question and answer of those ids
   for id in ids:
     card = mw.col.sched.getCard(id)
     question = card.question()
     answer = card.answer()
-    print(question, answer)
+    res += question + answer
+  showInfo("All the question and answer: ", res)
 
 
 
