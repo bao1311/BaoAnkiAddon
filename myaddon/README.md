@@ -4,6 +4,6 @@ Guide to develop Anki addon
 - Create symlink would also work
 - How to create symlink
     ln -s destination origin
-- After
+- After that, we can figure
 
 
